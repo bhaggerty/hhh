@@ -6,7 +6,7 @@ CoreOS is looking for an infrastructure and operations engineer to build, operat
 
 As part of the infrastructure team you will also help influence the products we build. At CoreOS we develop cutting edge infrastructure products centered around distributed systems to build "Google-like Infrastructure for Everyone Else" (GIFEE). On this journey we have introduced popular and widely deployed products and open source projects like CoreOS Linux, etcd, Quay.io, Tectonic, rkt and many more. We are one of the first companies to run production services on the open source clustering system introduced by Google and based on its own internal "Borg system", called Kubernetes.
 
-#Primary responsibilities will include:
+**Primary responsibilities will include:**
 
 
 * Deploying clusters of machines based on Kubernetes on cloud-providers
